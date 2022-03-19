@@ -15,6 +15,8 @@ Create an application that generates a random password based on user-selected cr
 
 
 
+
 The following image demonstrates the application functionality:
 
-![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/03-javascript-homework-demo.png)
+![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/03-javascript-homework-demo.png) ( ./Assets/passwordgenerator.png)
+
