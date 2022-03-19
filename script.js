@@ -93,7 +93,7 @@ var generatePassword = function() {
 			characters = characters + "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 		}
 		if (passwordCriteria.numeric === true) {
-			characters = characters + "0123456789";
+			characters = characters + "0123456";
 		}
 		if (passwordCriteria.specialCharacters === true) {
 			characters = characters + "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~";
