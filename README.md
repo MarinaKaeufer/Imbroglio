@@ -12,11 +12,11 @@ Create an application that generates a random password based on user-selected cr
 
 
 # Website
-
+https://marinakaeufer.github.io/Imbroglio/
 
 
 
 The following image demonstrates the application functionality:
 
-![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/03-javascript-homework-demo.png) ( ./Assets/passwordgenerator.png)
+![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/03-javascript-homework-demo.png) 
 
