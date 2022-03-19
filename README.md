@@ -19,4 +19,4 @@ https://marinakaeufer.github.io/Imbroglio/
 The following images demonstrate the application functionality;
 
 ![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/03-javascript-homework-demo.png)
-
+![image](https://user-images.githubusercontent.com/100238144/159140557-dc0f9189-d58d-4239-9c31-ea0e47daf27c.png)
